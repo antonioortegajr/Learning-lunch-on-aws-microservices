@@ -1,6 +1,6 @@
 # Learning-lunch-on-aws-miscroservices
 
-Learning Lunch presentation slides on miscroservices using aws.
+Learning Lunch presentation (internal presentation at IDX Broker) slides on miscroservices using aws.
 
 If you want to see the speaker notes visit here: https://docs.google.com/presentation/d/1bbZgsqI7YgStFasKfMmMyxYluzRbhexydNskP7I5crY/pub?start=false&loop=false&delayms=60000&slide=id.gc6f972163_0_8
 
